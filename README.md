@@ -7,8 +7,8 @@
 ```
 dev-log/
 ├── backend/          # 백엔드 개발 학습
-│   ├── java-basic/   # Java 기초 학습
-│   └── spring-boot/  # Spring Boot 학습
+│   ├── java-start/   # Java 기초 학습
+│   └── java-start-example/  # Java 기초 학습 예시
 ├── frontend/         # 프론트엔드 개발 학습
 │   ├── react/        # React 학습
 │   └── rn-avatar-app/ # React Native 학습 (강의)
